@@ -1,0 +1,9 @@
+{
+  "name": "pinyin-pro-api",
+  "version": "1.0.0",
+  "description": "A simple API to convert Chinese text to Pinyin using pinyin-pro.",
+  "main": "index.js",
+  "dependencies": {
+    "pinyin-pro": "^3.18.2"
+  }
+}
